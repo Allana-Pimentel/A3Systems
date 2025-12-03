@@ -47,7 +47,7 @@ python servidor.py
 ```bash
 python web_app.py
 ```
-Acesse: http://localhost:5001
+Acesse: http://localhost:5000
 
 ## 📝 Comandos Disponíveis (Cliente CLI)
 
