@@ -29,7 +29,7 @@ Sistema distribuído em Python que permite gerenciar tarefas e receber lembretes
 ```bash
 python servidor.py
 ```
-Aguarde a mensagem: `Servidor ouvindo em 0.0.0.0:5000`
+Aguarde a mensagem: `Servidor ouvindo em 0.0.0.0:5001`
 
 **Terminal 2 - Conectar Cliente CLI:**
 ```bash
