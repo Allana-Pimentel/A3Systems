@@ -86,6 +86,5 @@ a3systems/
 │   └── index.html
 ├── requirements.txt      # Dependências Python
 ├── tasks.json            # Persistência de tarefas
-└── DOCUMENTACAO.md       # Documentação completa
 ```
 
